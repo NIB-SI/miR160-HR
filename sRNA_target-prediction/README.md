@@ -2,7 +2,7 @@
 
 ## degradome sequencing
 
-## in silico target prediction
+## _in silico_ target prediction
 
 <hr style="width: 40ch; border: 2px solid gray">
 

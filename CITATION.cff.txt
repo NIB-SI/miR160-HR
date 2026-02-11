@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Dry-lab workflow for a 'miR160 controls class III peroxidase via StARF10/17 and couples salicylic acid and ROS signaling networks in potato hypersensitive response to potato virus Y'"
+version: 1.0.0
+doi: 10.5281/zenodo.xxxxxxxx
+date-released: 2025-02-11
+
+authors:
+  - family-names: "Križnik"
+    given-names: "Maja"
+    affiliation: "National Institute of Biology, Slovenia"
+
+repository-code: "https://github.com/NIB-SI/miR160-HR/"
+license: "MIT"

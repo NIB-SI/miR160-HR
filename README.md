@@ -18,8 +18,8 @@ Using a spatially resolved sRNA omics approach, we uncovered sRNA-level changes 
 ## RNA-seq
 
 ## sRNA target prediction
-## degradome sequencing
-## _in silico_ target prediction
+### degradome sequencing
+### _in silico_ target prediction
 
 <hr style="width: 40ch; border: 2px solid gray">
 

@@ -5,4 +5,7 @@
 - Differential expression analysis was conducted using [edgeR (v3.42.4)](https://bioconductor.org/packages//release/bioc/html/edgeR.html) and [limma (v3.56.2)](https://bioconductor.org/packages//release/bioc/html/limma.html).
 - Salmon-derived counts were first scaled by the transcript-specific overdispersion estimates (function Overdispersion), then TMM-normalized and transformed using the voom function, followed by empirical Bayes moderation.
 
+<hr style="width: 40ch; border: 2px solid gray">
+
+
 Check README files at each layer.

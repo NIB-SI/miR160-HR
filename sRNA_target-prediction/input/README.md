@@ -1,5 +1,2 @@
-# input
-
-## Unitato CDS
-- <https://unitato.nib.si/downloads/> or
-- <https://github.com/NIB-SI/unitato/> output 
+potato_sRNAs.fa contains all known annotated potato miRNAs from miRBase, and all novel and phased small interfering RNAs from the study Križnik et al. 2017.
+UniTato_cDNA.fa serves as the query file for the identification of potential small RNA targets.

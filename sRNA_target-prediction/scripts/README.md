@@ -24,7 +24,7 @@ perl CleaveLand4.5.pl -e /DATA/... -u ./sRNAs.fa -n ./Unitato_CDS.fasta -c 3 -t
 
 3. Select:Schema V2 (2017 release)
  ```
- Of top targets: 200
+ # of top targets: 200
  Expectation: 5
  Penalty for G:U pair: 0.5
  Penalty for other mismatches: 1
@@ -33,7 +33,7 @@ perl CleaveLand4.5.pl -e /DATA/... -u ./sRNAs.fa -n ./Unitato_CDS.fasta -c 3 -t
  ```
 
  ```
- Of mismatches allowed in seed region: 2
+ # of mismatches allowed in seed region: 2
  HSP size: 19
  Allow bulge(gap)
  Penalty for opening gap: 2
@@ -48,9 +48,6 @@ perl CleaveLand4.5.pl -e /DATA/... -u ./sRNAs.fa -n ./Unitato_CDS.fasta -c 3 -t
   ```
   
   ```
-  Translation inhibition range: 10
-   NT - 
-   11
-   NT
+  Translation inhibition range: 10 NT - 11 NT
   ```
 

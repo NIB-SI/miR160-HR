@@ -1,3 +1,4 @@
-Import files: RNA-Seq fastq files are deposited at European Nucleotide Archive under accession number PRJEB108023.
-The sequencing files were already trimmed for adapter sequences and low-quality bases by Novogene.
+Import files: RNA-Seq fastq files are deposited at European Nucleotide Archive under accession numbers PRJEB108023 and PRJEB108039.
+The RNA sequencing files were already trimmed for adapter sequences and low-quality bases by Novogene.
+
 
